@@ -19,6 +19,7 @@ header {
   align-items: center;
   color: #fff;
   gap: 11px;
+  margin-bottom: 1.3rem;
 }
 
 header > img {
@@ -32,7 +33,7 @@ header > h1 {
 
 .main-container {
   display: flex;
-  padding: 2rem;
+  padding: 1rem 2rem;
   gap: 2rem;
   max-height: fit-content;
 }
